@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%; 
+    font-family: "Atkinson Hyperlegible", sans-serif;
+
+}
+
+body {
+    background-color: #0d1a2c;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.container {
+    background-color: #15273f;
+    border-radius: 10px;
+    height: 35em; 
+    width: 20em; 
+    margin: 0 auto; 
+}
+
+.nft_pic {
+    width: 85%; 
+    display: flex;
+    margin: 0 auto;
+    margin-top: 30px; 
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.information{
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 85%;
+}
+
+h1{
+    color: white;
+    font-size: 1.3em;
+    margin-bottom: 25px;
+}
+
+p{
+    color: #465e7c;
+    font-size: 0.9em;
+}
+
+.eth-info {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+}
+
+.eth {
+    color: #32dee3;
+    font-weight: 600;
+}
+
+.icon {
+    width: 10%;
+    max-width: 30px; 
+    margin-right: 10px;
+}
+
+.days{
+    color: #465e7c;
+}
+
+hr{
+    border: 0.9px solid #465e7c;
+    margin: 20px auto;
+    width: 85%;
+}
+
+.user{
+    display: flex;
+    align-items: center;
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 23px;
+}
+.profile_pic{
+    border-radius: 50%;
+    width: 3em;
+    height: 3em;
+    object-fit: cover;
+    border: 1px solid white;
+}
+
+.creation{
+    margin-left: 15px;
+}
+
+.name{
+    color: white;
+    font-size: 1.1em;
+    margin-left: 3px;
+}
