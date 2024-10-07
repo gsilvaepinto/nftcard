@@ -12,7 +12,7 @@ This is a simple responsive NFT card built with HTML and CSS. It displays an NFT
 ## Technologies Used
 
 - HTML5
-- CSS3 (Flexbox and Media Queries)
+- CSS3 (Flexbox)
 
 ## Screenshot
 
