@@ -6,7 +6,6 @@ This is a simple responsive NFT card built with HTML and CSS. It displays an NFT
 
 - Responsive design for various screen sizes
 - Centered layout with a dark theme
-- Circular creator profile image
 - Font and color styling for a clean, modern look
 
 ## Technologies Used
